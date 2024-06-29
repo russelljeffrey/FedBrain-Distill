@@ -1,6 +1,6 @@
 # FedBrain-Distill
 
-This repository aims to implement FedBrain-Distill, a method that carries out brain tumor classification using Knowledge Distillation in a Federated Learning setting.
+This repository is the implementation of FedBrain-Distill, a method that carries out brain tumor classification using Knowledge Distillation (KD) in a Federated Learning (FL) setting.
 
 ## Requirements
 
