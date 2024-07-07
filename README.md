@@ -14,7 +14,7 @@ To run this project, you'll need the following Python packages:
 You can install these packages using pip:
 
 ```bash
-pip install numpy matplotlib pandas tensorflow tensorflow_probability
+pip install numpy matplotlib pandas tensorflow tensorflow-probability
 ```
 ## Results
 To see the results, please go the `Report` directory. 
